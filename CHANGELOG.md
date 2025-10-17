@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0](https://github.com/Szhao52/poc-initial-ver/compare/v0.1.0...v0.2.0) (2025-10-17)
+
+
+### Features
+
+* bootstrap release processs2 ([92b4724](https://github.com/Szhao52/poc-initial-ver/commit/92b472435ae296509f0c5a27b74da64a8e1536d1))
+* v2 ([6b1c41e](https://github.com/Szhao52/poc-initial-ver/commit/6b1c41e825c6ae099e756ae6366ae650de8bd5bf))
+
 ## [0.1.0](https://github.com/Szhao52/poc-initial-ver/compare/v0.0.0...v0.1.0) (2025-10-17)
 
 
