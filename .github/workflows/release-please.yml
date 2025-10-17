@@ -17,3 +17,4 @@ jobs:
         with:
           token: ${{ secrets.REPO_TOKEN }}
           release-type: "simple"
+          config-file: release-please-config.json
