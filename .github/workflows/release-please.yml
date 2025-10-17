@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: googleapis/release-please-action@lastest
+      - uses: googleapis/release-please-action@latest
         with:
           token: ${{ secrets.REPO_TOKEN }}
