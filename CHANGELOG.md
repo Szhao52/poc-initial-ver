@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/Szhao52/poc-initial-ver/compare/v0.3.0...v0.4.0) (2025-10-17)
+
+
+### Features
+
+* retro ([e875393](https://github.com/Szhao52/poc-initial-ver/commit/e87539351e35105f6778333791a4883543359acf))
+
 ## [0.3.0](https://github.com/Szhao52/poc-initial-ver/compare/v0.2.0...v0.3.0) (2025-10-17)
 
 
