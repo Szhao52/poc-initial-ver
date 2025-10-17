@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0](https://github.com/Szhao52/poc-initial-ver/compare/v1.0.0...v1.1.0) (2025-10-17)
+
+
+### Features
+
+* update config ([e5849ec](https://github.com/Szhao52/poc-initial-ver/commit/e5849ece7c7e7ca53c0b5b2bcc8f373dcc872d00))
+* update config ([61b96b8](https://github.com/Szhao52/poc-initial-ver/commit/61b96b8e287982bc4f2d59ba4749b78ed33973c0))
+* v1.1 ([f26ac7c](https://github.com/Szhao52/poc-initial-ver/commit/f26ac7cce47c422fc5a17df0b3f9c27b26d7d683))
+
 ## [1.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v0.4.0...v1.0.0) (2025-10-17)
 
 
