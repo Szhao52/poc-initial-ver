@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v1.0.0...v2.0.0) (2025-10-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* update v2
+
+### Features
+
+* update v2 ([dd64ce4](https://github.com/Szhao52/poc-initial-ver/commit/dd64ce4a55cd48f415b88c56c38fc797e702a9ce))
+
 ## [1.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v0.4.0...v1.0.0) (2025-10-17)
 
 
