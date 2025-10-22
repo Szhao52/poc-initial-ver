@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/Szhao52/poc-initial-ver/compare/v2.1.0...v2.2.0) (2025-10-22)
+
+
+### Features
+
+* update index2 ([6baea2e](https://github.com/Szhao52/poc-initial-ver/commit/6baea2efe45beebf4b3091217874ba43ad83e580))
+
 ## [2.1.0](https://github.com/Szhao52/poc-initial-ver/compare/v2.0.0...v2.1.0) (2025-10-22)
 
 
