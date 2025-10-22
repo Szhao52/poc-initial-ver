@@ -1,4 +1,4 @@
-﻿module.exports = () => 'v2.1';
+﻿module.exports = () => 'v2.2';
 // more
 
 //nueva func
@@ -6,3 +6,4 @@
 
 
 //more
+
