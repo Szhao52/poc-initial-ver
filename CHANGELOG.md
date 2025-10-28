@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/Szhao52/poc-initial-ver/compare/v5.0.0...v5.0.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* workflow retro-release ([c62ce7b](https://github.com/Szhao52/poc-initial-ver/commit/c62ce7bfc7db01d6951dc55bd221844965f02c7e))
+
 ## [5.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v4.0.1...v5.0.0) (2025-10-28)
 
 
