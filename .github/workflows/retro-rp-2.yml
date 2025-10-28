@@ -1,4 +1,4 @@
-name: Maintainance Release
+name: Maintenance Release 2
 run-name: "Maintenance Release - Branch: ${{ inputs.target-branch }}"
 
 on:
