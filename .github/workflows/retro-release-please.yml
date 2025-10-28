@@ -1,4 +1,5 @@
 name: Maintainance Release
+run-name: "Maintenance Release - Branch: ${{ inputs.target-branch }}
 
 on:
   workflow_dispatch:
