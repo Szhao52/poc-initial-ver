@@ -1,5 +1,5 @@
-name: Maintenance Release 2
-run-name: "Maintenance Release - Branch: ${{ inputs.target-branch }}"
+name: Release PR 
+run-name: " Release PR - Branch: ${{ inputs.target-branch }}"
 
 on:
   workflow_dispatch:
