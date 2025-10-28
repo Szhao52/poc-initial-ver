@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v3.0.0...v4.0.0) (2025-10-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* v4
+
+### Features
+
+* v4 ([b708140](https://github.com/Szhao52/poc-initial-ver/commit/b7081406e1439c9c18b9bc625276b13d20d6959a))
+
 ## [3.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v2.2.1...v3.0.0) (2025-10-28)
 
 
