@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.0](https://github.com/Szhao52/poc-initial-ver/compare/v5.0.1...v5.1.0) (2025-10-28)
+
+
+### Features
+
+* update name for retro-pr-2 ([42bcc1c](https://github.com/Szhao52/poc-initial-ver/commit/42bcc1cfbc5c4a65e9f9ba008a60696bc75348c3))
+
 ## [5.0.1](https://github.com/Szhao52/poc-initial-ver/compare/v5.0.0...v5.0.1) (2025-10-28)
 
 
