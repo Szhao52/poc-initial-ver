@@ -1,5 +1,16 @@
 # Changelog
 
+## [5.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v4.0.1...v5.0.0) (2025-10-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* v5
+
+### Features
+
+* v5 ([53615a1](https://github.com/Szhao52/poc-initial-ver/commit/53615a1d2b6914e32fe04bda5517cd15e9c1f89c))
+
 ## [4.0.1](https://github.com/Szhao52/poc-initial-ver/compare/v4.0.0...v4.0.1) (2025-10-28)
 
 
