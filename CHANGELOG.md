@@ -1,5 +1,16 @@
 # Changelog
 
+## [6.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v5.1.0...v6.0.0) (2025-10-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* new major v6
+
+### Features
+
+* new major v6 ([cb1056f](https://github.com/Szhao52/poc-initial-ver/commit/cb1056f386269c24f40d3c638ab30709456ba335))
+
 ## [5.1.0](https://github.com/Szhao52/poc-initial-ver/compare/v5.0.1...v5.1.0) (2025-10-28)
 
 
