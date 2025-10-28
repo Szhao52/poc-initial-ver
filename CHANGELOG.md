@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/Szhao52/poc-initial-ver/compare/v4.0.1...v4.1.0) (2025-10-28)
+
+
+### Features
+
+* add readme contributing ([fc7c09e](https://github.com/Szhao52/poc-initial-ver/commit/fc7c09e00f6e2ece6226169b62d5b57e554083fd))
+
 ## [4.0.1](https://github.com/Szhao52/poc-initial-ver/compare/v4.0.0...v4.0.1) (2025-10-28)
 
 
