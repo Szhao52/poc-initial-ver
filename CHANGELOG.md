@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.1](https://github.com/Szhao52/poc-initial-ver/compare/v4.0.0...v4.0.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* workflow name ([3e6c0ae](https://github.com/Szhao52/poc-initial-ver/commit/3e6c0ae4b8c717366018dd0dbb79126e38bfd622))
+
 ## [4.0.0](https://github.com/Szhao52/poc-initial-ver/compare/v3.0.0...v4.0.0) (2025-10-28)
 
 
