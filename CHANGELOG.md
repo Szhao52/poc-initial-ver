@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Szhao52/poc-initial-ver/compare/v1.1.0...v1.1.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* small update to readme ([80ff1e2](https://github.com/Szhao52/poc-initial-ver/commit/80ff1e20889f991f7b5da2e8df3cdf35e7d87241))
+
 ## [1.1.0](https://github.com/Szhao52/poc-initial-ver/compare/v1.0.0...v1.1.0) (2025-10-17)
 
 
